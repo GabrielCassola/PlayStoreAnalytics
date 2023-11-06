@@ -13,7 +13,7 @@
 
 **Resultados Esperados:**
 - Espero obter uma compreensão aprofundada do mercado de aplicativos móveis por meio da análise de dados da Google Play Store. Isso inclui insights sobre quais categorias de aplicativos são mais populares, como o preço afeta a popularidade dos aplicativos e como as classificações impactam a satisfação do usuário. Essas informações podem ser valiosas para desenvolvedores, empresas e pesquisadores interessados no mercado de aplicativos móveis.
-- As considerações detalhadas sobre as análises e outros resultados estarão disponíveis em um PDF anexado no repositório deste projeto.
+- As considerações detalhadas sobre as análises e outros resultados estarão disponíveis em um PDF anexado no repositório deste projeto: `analise_dados_dos_aplicativos_Google_Play_Store.pdf`
 
 
 ## Requisitos
